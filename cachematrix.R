@@ -2,7 +2,7 @@
 ## (if this inverse has not been cached yet). 
 ## If the inverse of the matrix we pass to the functions has been already 
 ## calculated and so cached, at the end we had it from the cache.
-## If not, the functions calculate it, store it in the cache for next time 
+## If not, the functions calculate the inverse, store it in the cache for next time 
 ## we ask for it and in the meantime return it to us.
 
 ## This function creates a matrix to cache its inverse and returns a list of function 
